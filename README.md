@@ -1,8 +1,8 @@
-# Yo, I heard you love pointers,
+# Yo Dawg, I heard you love pointers,
 
-## I created a pointer that points to a pointer that points to a pointer
+## So I made a pointer that points to a pointer that points to a pointer
 
-## So I can dereference a dereference a dereference 
+## So You can dereference a dereference to a dereference 
 
 ## check the pointers.c file for the source code :)
 
