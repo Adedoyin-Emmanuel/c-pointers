@@ -4,7 +4,7 @@
 
 ## So I can dereference a dereference a dereference 
 
-# check the pointers.c file for the source code :)
+## check the pointers.c file for the source code :)
 
 
-# Don't forget to star and follow me :)
+## Don't forget to star and follow me :)
